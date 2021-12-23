@@ -1,25 +1,8 @@
 # Blockchain Fundamentals review activities
 
-
-Please choose some questions from the Blockchain stack. 
-- Questions could be MCQ or T/F.   
-- It will be very helpful if you also provide the related week and day or learn link.  
-
-For example  
-**Week x, Day x** (optional Learn link for this topic or question)  
-**Question:** xxx  
+**Week 10 Day x** http://learn.codingdojo.com/m/330/10482/71103  
+**Question:** SchellingCoin primarily sought to Provide a minimal-trust data feed
 **Answer:** 
-- A
-- B
-- C
-- D 
-
-or 
-- T/F 
-
-
-After questions are prepared, you can test other members in your group. Have fun! :)
-
-
-
-After sharing questions and answers with each other, you could organize all questions together as review material.  
+- T
+- F 
+  
